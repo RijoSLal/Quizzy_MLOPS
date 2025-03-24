@@ -1,0 +1,6 @@
+outs:
+- md5: fa683515c84e3bb2f15be6c289af827a.dir
+  size: 5201526744
+  nfiles: 15221
+  hash: md5
+  path: affectnet
